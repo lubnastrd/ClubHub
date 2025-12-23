@@ -78,7 +78,7 @@ Modal pop-ups for event details
 └── Profile Settings
 
 🚀 Installation Guide
-git clone https://github.com/username/clubhub.git
+git clone https://github.com/lubnastrd/clubhub.git
 cd clubhub
 composer install
 npm install
